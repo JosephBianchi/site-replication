@@ -1,0 +1,116 @@
+
+/*general*/
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*row 1*/
+
+.body {
+  background-color: #06D6A0;
+}
+
+.cat_shop {
+  background-color: #06D6A0;
+  padding: 20px;
+  position: relative;
+  margin: 0px;
+}
+
+h1  {
+  color: white;
+  margin: 0px;
+
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0[x];
+  padding: 0;
+  display: inline;
+  position: absolute;
+  right: 25px;
+  top: 30px;
+  font-size: 20px;
+
+
+}
+li {
+  display: inline;
+}
+
+
+/*cat pic*/
+.image_row_2 img {
+  display: inline-block;
+  width: 50%;
+  background-color: #26547C;
+}
+
+.image_row_2 h2 {
+  display: inline-block;
+  color: white;
+
+}
+
+.image_row_2 {
+  background-color: #26547C;
+  padding-bottom: 2px;
+}
+/*row 3*/
+.row_3_cats {
+  background-color: #FFD166;
+  margin: 0px;
+}
+
+/*row 4*/
+.row_4_prodcuts {
+  background-color: #F2F2F2;
+  margin: 0px;
+}
+
+.images_grid {
+  background-color: #F2F2F2;
+  margin: 0px;
+}
+
+img {
+  display: inline-block;
+  width: 30%;
+  margin: 10px;
+  border: 4px solid black;
+}
+
+/*row 6*/
+.row_6 {
+  background-color: #26547C;
+}
+
+h4 {
+  color: #EF476F;
+  text-align: center;
+  word-spacing: 70px;
+  font-size: 35px;
+}
+
+.row_6 p {
+  color: white;
+}
+
+/*paragraph line height*/
+p {
+  line-height: 30px;
+}
+
+/*row 7*/
+
+.row_7 {
+  background-color: #06D6A0;
+  text-align: right;
+  padding-right: 10px;
+}
